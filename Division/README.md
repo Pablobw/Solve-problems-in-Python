@@ -9,7 +9,7 @@ Input Format:
   The first line contains the first integer, a.
   The second line contains the second integer, b.
 
-Output Format
+Output Format:
   Print the two lines as described above.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -23,5 +23,5 @@ Formato de entrada:
    La primera línea contiene el primer número entero, a.
    La segunda línea contiene el segundo número entero, b.
 
-Formato de salida
+Formato de salida:
    Imprima las dos líneas como se describe arriba.
