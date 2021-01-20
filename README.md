@@ -15,7 +15,7 @@ Input:
   The second line constains the second integer, b.
 
 Output:
-  Print the three lines as explined above.
+  Print the three lines as explined above. 
   
 -------------------------------------------------------------------------------------------------------
 El código auxiliar proporcionado lee dos enteros de STDIN y. Añadir un código para imprimir tres líneas donde:
