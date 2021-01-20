@@ -1,4 +1,4 @@
-# Solve-problems-in-Python
+# SUM, DIFFERENCE & PRODUCT
 ***
 -------------------------------------------------------------------------------------------------------
 The provided code stub reads two integers from STDIN,  and . Add code to print three lines where:
